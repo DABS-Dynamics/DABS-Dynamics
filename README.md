@@ -41,10 +41,10 @@ A Python framework for Active Flux Pinning Dynamics (AFPD). Researching quantum-
 
 ## 🛠 Technical Stack
 
-* **Languages:** Python, C++, Lua.
+* **Primary Language:** Python (Scientific Stack).
 * **Machine Learning:** PyTorch, PyTorch Geometric, HuggingFace Transformers, Stable Baselines3.
 * **Quantum/Scientific:** Qiskit, NumPy, SciPy, SymPy, Numba, pandas.
-* **Simulation:** Custom Python Physics Kernels, Matplotlib.
+* **Simulation & Viz:** Custom Physics Kernels, Matplotlib.
 
 ---
 
