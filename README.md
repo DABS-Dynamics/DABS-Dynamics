@@ -21,14 +21,6 @@
 
 ## 🚀 Active Initiatives
 
-### 🌌 [cosmic-morphodynamics](https://github.com/DABS-Dynamics/cosmic-morphodynamics)
-**Status:** *Active Research*
-Numerical simulations focusing on the shape evolution of cosmic structures. This project investigates how geometry and order naturally emerge from chaotic systems through reaction-diffusion processes and self-organizing criticality.
-
-### 🤖 [qlaci-hybrid-transformer](https://github.com/DABS-Dynamics/qlaci-hybrid-transformer)
-**Status:** *Prototyping*
-An experimental Hybrid Quantum-Classical Transformer architecture. Integrating Parameterized Quantum Circuits (PQC) directly into attention mechanisms to explore quantum-assisted sequence modeling efficiency and expressibility.
-
 ### 📉 [active-dqn-doublewell](https://github.com/DABS-Dynamics/active-dqn-doublewell)
 **Status:** *Simulation / RL*
 Deep Q-Network (DQN) implementation for controlling particle dynamics within a stochastic double-well potential. This research investigates optimal policy learning for energy-efficient barrier crossing and state stabilization in bistable physical systems.
@@ -36,6 +28,14 @@ Deep Q-Network (DQN) implementation for controlling particle dynamics within a s
 ### 🧲 [ActiveFluxPinningDynamics](https://github.com/DABS-Dynamics/ActiveFluxPinningDynamics)
 **Status:** *Simulation*
 A Python framework for Active Flux Pinning Dynamics (AFPD). Researching quantum-assisted suspension control, nonlinear damping strategies, and stiffness behavior in magnetic flux systems.
+
+### 🌌 [cosmic-morphodynamics](https://github.com/DABS-Dynamics/cosmic-morphodynamics)
+**Status:** *Active Research*
+Numerical simulations focusing on the shape evolution of cosmic structures. This project investigates how geometry and order naturally emerge from chaotic systems through reaction-diffusion processes and self-organizing criticality.
+
+### 🤖 [qlaci-hybrid-transformer](https://github.com/DABS-Dynamics/qlaci-hybrid-transformer)
+**Status:** *Prototyping*
+An experimental Hybrid Quantum-Classical Transformer architecture. Integrating Parameterized Quantum Circuits (PQC) directly into attention mechanisms to explore quantum-assisted sequence modeling efficiency and expressibility.
 
 ---
 
